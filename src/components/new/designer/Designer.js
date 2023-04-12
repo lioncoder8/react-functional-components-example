@@ -12,7 +12,7 @@ const Designer = ({ name, onRandomiseIconClick, handleNameChange, onInputBlur, s
   <div className={styles.designerContainer}>
     <Input
       id="designerInput"
-      autoFocus
+      // autoFocus
       type="text"
       label="Name"
       value={name}
