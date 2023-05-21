@@ -220,13 +220,3 @@ describe('profileCardCompliment', () => {
     expect(wrapper.find('#profileCardCompliment').text()).to.equal('Has a very cool name!');
   });
 });
-```
-
-### Helpful links
-* https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc
-* https://github.com/krasimir/react-in-patterns/blob/master/book/chapter-6/README.md
-
-### Author
-[Rowan Carmichael](https://github.com/RowanCarmichael)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
