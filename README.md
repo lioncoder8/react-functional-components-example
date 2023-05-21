@@ -4,7 +4,7 @@ It is not intended to be a complete project. It is instead intended to highlight
 
 ## Running locally
 
-1. pull master branch from https://github.com/RowanCarmichael/react-functional-components-example
+1. pull master branch from https://github.com/lioncoder8/react-functional-components-example
 
 2. in project folder run `yarn install` to install project dependencies
 
